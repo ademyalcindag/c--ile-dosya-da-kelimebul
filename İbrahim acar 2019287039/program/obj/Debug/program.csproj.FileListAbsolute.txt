@@ -1,0 +1,14 @@
+C:\Users\CAN\source\repos\program\program\bin\Debug\program.exe.config
+C:\Users\CAN\source\repos\program\program\bin\Debug\program.exe
+C:\Users\CAN\source\repos\program\program\bin\Debug\program.pdb
+C:\Users\CAN\source\repos\program\program\obj\Debug\program.csprojAssemblyReference.cache
+C:\Users\CAN\source\repos\program\program\obj\Debug\program.csproj.CoreCompileInputs.cache
+C:\Users\CAN\source\repos\program\program\obj\Debug\program.exe
+C:\Users\CAN\source\repos\program\program\obj\Debug\program.pdb
+D:\Yeni klasör (2)\İbrahim acar 2019287039\program\bin\Debug\program.exe.config
+D:\Yeni klasör (2)\İbrahim acar 2019287039\program\bin\Debug\program.exe
+D:\Yeni klasör (2)\İbrahim acar 2019287039\program\bin\Debug\program.pdb
+D:\Yeni klasör (2)\İbrahim acar 2019287039\program\obj\Debug\program.csproj.AssemblyReference.cache
+D:\Yeni klasör (2)\İbrahim acar 2019287039\program\obj\Debug\program.csproj.CoreCompileInputs.cache
+D:\Yeni klasör (2)\İbrahim acar 2019287039\program\obj\Debug\program.exe
+D:\Yeni klasör (2)\İbrahim acar 2019287039\program\obj\Debug\program.pdb
